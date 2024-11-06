@@ -1,5 +1,5 @@
 - have a nice day
-- contact email: chen17618433
+- contact email: chen17618433@gmail.com
 
 <!---
 chen17618433/chen17618433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
